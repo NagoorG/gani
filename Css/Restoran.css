@@ -1,0 +1,424 @@
+C:\Users\ELCOT\Desktop\hl\html\Restoran.html.First {
+    background-image: url('../IMAGES/banner-bg.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#Parent1 {
+    display: grid;
+    grid-template-columns: 30% 60% 10%;
+    gap: 10px;
+    text-align: center;
+    word-spacing: 10px;
+    align-items: center;
+}
+
+#Parent2 {
+    display: grid;
+    grid-template-columns: 30% 40%;
+    justify-content: center;
+    /* text-align: center; */
+    align-items: center;
+    font-size: larger;
+    font-weight: bolder;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.link:hover {
+    color: gray;
+}
+
+.Home:active {
+    transition: 0.5;
+}
+
+#rounded {
+    margin-left: 110px;
+    margin-top: 50px;
+    margin-bottom: 70px;
+    /* margin: 10px; */
+    border-radius: 10px;
+    align-items: center;
+    width: 150px;
+    height: 45px;
+    background-color: brown;
+    color: white;
+    border: none;
+}
+
+.Parentbutton {
+    text-align: center;
+    font-size: medium;
+}
+
+#rounded1 {
+    margin: 10px;
+    border-radius: 10px;
+    align-items: center;
+    width: 150px;
+    height: 45px;
+    background-color: gray;
+    color: white;
+    border: none;
+}
+
+#rounded:hover {
+    background-color: gray;
+}
+
+#rounded:active {
+    transition: o.5;
+}
+
+#coffee {
+    text-shadow: 3px 3px gray;
+}
+
+.Studentone {
+    margin: 90px;
+    padding-bottom: 30px;
+    text-transform: capitalize;
+    text-align: center;
+    font-weight: bolder;
+    font-size: larger;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.but {
+    border-radius: 10px;
+    align-items: center;
+    width: 150px;
+    height: 45px;
+    background-color: gray;
+    color: brown;
+    border: none;
+}
+
+.but:hover {
+    color: black;
+}
+
+.but:active {
+    transition: 0.5;
+}
+
+#dot {
+    color: palevioletred;
+}
+
+.Imagesplit {
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20%;
+    justify-content: space-between;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    box-shadow: 0 0 100% black;
+    text-align: center;
+    width: 100%
+}
+
+body {
+    overflow-x: hidden;
+}
+
+.child6 {
+    margin: 90px;
+    text-align: center;
+}
+
+#dots {
+    color: palevioletred;
+}
+
+.child7 {
+    display: grid;
+    grid-template-columns: 30% 60%;
+    margin: 60px;
+    justify-content: space-around;
+    padding: 20px;
+}
+
+#shopbackground {
+    justify-content: right;
+}
+
+.child9 {
+    justify-content: center;
+    margin: 10px;
+}
+
+#student2 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: larger;
+}
+
+#student3 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: larger;
+    color: pink;
+}
+
+.child10 {
+    display: grid;
+    grid-template-columns: 15% 50%;
+    justify-content: center;
+    margin: 20px;
+}
+
+#student4 {
+    box-shadow: 0 0 80% black;
+}
+
+#student5 {
+    text-align: start;
+    /* font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; */
+}
+
+.child11 {
+    display: grid;
+    grid-template-columns: 15% 50%;
+    justify-content: center;
+    margin: 20px;
+}
+
+#student6 {
+    box-shadow: 0 0 80% black;
+}
+
+#student7 {
+    text-align: start;
+    /* font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; */
+}
+
+.child12 {
+    display: grid;
+    grid-template-columns: 15% 50%;
+    justify-content: center;
+    margin: 20px;
+}
+
+#student8 {
+    box-shadow: 0 0 80% black;
+}
+
+#student9 {
+    text-align: start;
+    /* font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; */
+}
+
+.teacher1 {
+    background-image: url(../IMAGES/banner-bg\ -\ Copy.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    align-content: left;
+}
+
+#member1 {
+    padding: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: larger;
+}
+
+#member2 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: larger;
+    color: pink;
+}
+
+.teacher3 {
+    display: grid;
+    grid-template-columns: 45% 45%;
+    justify-content: space-evenly;
+    align-items: flex-start;
+}
+
+.readmore {
+    margin: 30px;
+    border-radius: 10px;
+    align-items: center;
+    width: 100px;
+    height: 45px;
+    background-color: gray;
+    color: brown;
+    border: none;
+}
+
+#child13 {
+    box-shadow: 0 0 30px black;
+    text-align: justify;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#child14 {
+    box-shadow: 0 0 30px black;
+    text-align: justify;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#member3 {
+    justify-content: right;
+}
+
+#child15 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bolder;
+    font-size: larger;
+    text-align: center;
+}
+
+#member3 {
+    color: pink;
+    font-size: larger;
+    font-weight: bolder;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.teacher4 {
+    padding: 30px;
+    margin: 45px;
+    width: 70%;
+    text-align: center;
+    margin: auto;
+
+}
+
+.link2 {
+    border: none;
+    padding: 2px;
+    /* justify-content: center; */
+    text-align: center;
+    /* background: none; */
+    /* background-color: rgba(128, 128, 128, 0); */
+    border-radius: 70px;
+    width: 85%;
+    box-shadow: 0 0 10px gray;
+    margin: 30px;
+}
+
+.link2 input {
+    width: 10%;
+    border: none;
+    outline: none;
+}
+
+#send {
+    margin: 30px;
+    border-radius: 10px;
+    align-items: center;
+    width: 100px;
+    height: 45px;
+    background-color: brown;
+    color: white;
+    border: none;
+
+}
+
+#send:hover {
+    background-color: black;
+}
+
+#send:active {
+    transition: 0.5;
+}
+
+.teacher5 {
+    background-image: url('../IMAGES/footer-bg.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    color: deeppink;
+}
+
+.atag {
+    display: grid;
+    grid-template-rows: 20% 20%;
+    margin: 30px;
+}
+
+#h1tag {
+    margin: 30px;
+    font-family: "copperplate", "fantasy";
+}
+
+#p1tag {
+    margin: 50px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.atag:hover {
+    color: gray;
+}
+
+.atag:active {
+    transition: 0.5;
+}
+
+#txt {
+    height: 30px;
+    width: 300px;
+    border-radius: 7px;
+}
+
+.footer {
+    background-color: violet;
+    display: grid;
+    grid-template-columns: 15% 8% 70%;
+}
+
+.child7 {
+    display: grid;
+    grid-template-columns: 60% 30%;
+    margin: 60px;
+
+}
+
+.child7 img {
+    width: 100%;
+}
+
+#coffeedist {
+    background: white;
+    box-shadow: 0 0 30px gray;
+    margin-left: -150px;
+    height: 81%;
+    margin-top: 26px;
+
+}
+
+input:focus-visible,
+input:focus {
+    outline-offset: 0px;
+    border: none;
+    outline: none;
+}
+
+#footersocial2 {
+    justify-content: right;
+    border-radius: 10px;
+    color: brown;
+    border: none;
+}
+
+#s {
+    align-items: center;
+    margin: -2px;
+    text-align: center;
+    color: brown;
+    border: none;
+    border-radius: 10px;
+}
+
+.butt {
+    margin: 30px;
+    border-radius: 10px;
+    align-items: center;
+    width: 100px;
+    height: 45px;
+    background-color: gray;
+    color: brown;
+    border: none;
+}
+
+/* #Parent2:carousel-item{
+    position: relative;
+    display: none;
+} */

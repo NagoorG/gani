@@ -1,0 +1,17 @@
+.anime{
+    width: 200px;
+    height: 200;
+    background-color: lawngreen;
+    animation-name:change ;
+    animation-direction: 2s;
+
+}
+@keyframes: change
+{
+    form{
+          background-color:red;
+    }
+    to{
+        background-color: darkcyan;
+    }
+}

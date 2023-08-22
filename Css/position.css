@@ -1,0 +1,27 @@
+.shop{
+    position: fixed;
+    width: 100%;
+    top:0;
+    color: white;
+    background-color: crimson;
+}
+.model > h2
+{
+    position: sticky;
+    width: 100%;
+    top:50px;
+    color: white;
+    background-color: crimson;
+}
+.img{
+    position: relative;
+    width: 200px;
+}
+.img img{
+    width: 100%;
+}
+.img button{
+    position: absolute;
+    top:0;
+    right:0;
+}

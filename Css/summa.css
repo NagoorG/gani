@@ -1,0 +1,8 @@
+.headend{
+    display: flex;
+    flex-wrap: nowrap;
+    text-align: center;
+}
+.Bg{
+    background-image: url('../New\ folder/background-image');
+}

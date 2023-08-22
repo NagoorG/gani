@@ -1,0 +1,11 @@
+#para{color:red;
+
+}
+.gr{color:darkgreen;
+
+}
+[name='check']{
+    color: orangered
+}
+p~small{color:maroon}
+.brother+small{color:darkmagenta}

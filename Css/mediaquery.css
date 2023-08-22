@@ -1,0 +1,25 @@
+.p
+@medi only screen and (min-width:320px)and(max-width480px){
+ .parent
+ {display:grid;
+    grid-template-columns: repeat(1,100%);}
+    
+}
+@medi only screen and (min-width:480px)and(max-width768px){
+ .parent
+ {display:grid;
+    grid-template-columns: repeat(2,50%);}
+    
+}
+@medi only screen and (min-width:768px)and(max-width1024px){
+    .parent
+    {display:grid;
+       grid-template-columns: repeat(3,30%);}
+       
+   }
+   @medi only screen and (max-width1024px){
+    .parent
+    {display:grid;
+       grid-template-columns: repeat(2,50%);}
+       
+   }

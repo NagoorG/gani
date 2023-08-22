@@ -1,0 +1,17 @@
+p{
+    color: brown;
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    font-style: normal;
+    /*letter-spacing: 15px;
+    word-spacing: 20px;*/
+    text-align: justify;
+    text-transform: capitalize;
+    /*text-decoration-line: line-through;*/
+    text-shadow: 1px 2px 2px slategray;
+   /* white-space: nowrap;*/
+    width:400px;
+    text-overflow:ellipsis;
+
+}
